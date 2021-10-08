@@ -1,0 +1,14 @@
+{
+  "name": "prova_sistemas_distribuidos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js --exec node"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "uuid": "^8.3.2"
+  }
+}
